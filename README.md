@@ -21,7 +21,7 @@ Experienced Senior Backend Developer with a proven track record in constructing 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Online Presence
-- (<a target="_blank" href="https://jcadima.dev">Personal Website</a>)
-- (<a href="mailto:juanjcadima@gmail.com">@email</a>)
-- (<a target="_blank" href="https://www.linkedin.com/in/juancadima/">@LinkedIn</a>)
+- <a target="_blank" href="https://jcadima.dev">Personal Website</a>
+- <a href="mailto:juanjcadima@gmail.com">@email</a>
+- <a target="_blank" href="https://www.linkedin.com/in/juancadima/">@LinkedIn</a>
 
