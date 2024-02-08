@@ -1,5 +1,5 @@
 ### About me
-Experienced Senior Backend Developer with a proven track record in constructing robust web applications. Proficient in designing and sustaining the structural integrity of software applications and scalable systems, my specialization lies in backend development, particularly focused on Laravel, Node.js, JavaScript, Docker, and API design. 
+Experienced Senior Backend Developer with a proven track record in constructing robust web applications, my specialization lies in backend development, particularly focused on Laravel, Node.js, JavaScript, Docker, and API design. 
 <br>
 
 
