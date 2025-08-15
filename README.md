@@ -1,5 +1,6 @@
 ### About me
-Experienced Senior Backend Developer with a proven track record in constructing robust web applications, my specialization lies in backend development, particularly focused on Laravel, Node.js, JavaScript, Docker, and API design. 
+Experienced FullStack Developer evolving into a DevOps-focused engineer, blending deep expertise in backend and API design with skills in Docker, Linux, CI/CD, and cloud infrastructure. Passionate about building secure, scalable systems and orchestrating the full lifecycle from code to production.
+
 <br>
 
 
@@ -14,6 +15,7 @@ Experienced Senior Backend Developer with a proven track record in constructing 
 ![PHP](https://img.shields.io/badge/php-%2300ADD8.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E6522C?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![DevOps](https://img.shields.io/badge/bash-%23000000.svg?style=for-the-badge&logo=bash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-%23326ce5.svg?style=for-the-badge&logo=Laravel&logoColor=white)
