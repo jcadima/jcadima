@@ -1,29 +1,51 @@
-### About me
-Experienced FullStack Developer evolving into a DevOps-focused engineer, blending deep expertise in backend and API design with skills in Docker, Linux, CI/CD, and cloud infrastructure. Passionate about building secure, scalable systems and orchestrating the full lifecycle from code to production.
-
+## Who Am I? 🤔
+Hey there, I’m Juan — a FullStack Developer evolving into a DevOps-focused engineer, blending deep expertise in backend and API design with skills in Docker, Linux, CI/CD, and cloud infrastructure. Passionate about building secure, scalable systems and orchestrating the full lifecycle from code to production.
 <br>
 
+## Languages, Tools, and Frameworks ⚙️
+<!-- For more icons please follow  https://github.com/devicons/devicon -->
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50"/>
+</p>
 
-### Tech Skills
-
-![Bash](https://img.shields.io/badge/bash-%23000000.svg?style=for-the-badge&logo=bash&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23F05033.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%230db7ed.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%2300ADD8.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-E6522C?style=for-the-badge&logo=Laravel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![DevOps](https://img.shields.io/badge/DevOps-%23000000.svg?style=for-the-badge&logo=DevOps&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-%23326ce5.svg?style=for-the-badge&logo=Laravel&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Online Presence
 - <a target="_blank" href="https://jcadima.dev">Personal Website</a>
 - <a href="mailto:juanjcadima@gmail.com">@email</a>
 - <a target="_blank" href="https://www.linkedin.com/in/juancadima/">@LinkedIn</a>
+
+## Projects 🔗
+- [WireCMS](https://wirecms.jcadima.dev/)
+- [NoSiteRadar](https://nositeradar.jcadima.dev/)
+- [IMGrly](https://imgrly.jcadima.dev/)
+
+
+## Latest Blog Posts 📕
+<!-- BLOG-POST-LIST:START -->
+- [Building a dynamic Sitemap generator in Laravel](https://jcadima.dev/blog/how-to-build-a-custom-sitemap-in-laravel-for-better-seo-without-packages)
+- [Boost Laravel Performance with Eloquent Caching and Query Optimization](https://jcadima.dev/blog/boost-laravel-performance-with-eloquent-caching-and-query-optimization)
+
+<!-- BLOG-POST-LIST:END -->
+▶️ [more blog posts...](https://jcadima.dev/blog)
+
+
+## Overall Github Metrics 📊
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcadima&theme=solarized_dark
+
+https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcadima&theme=solarized_dark
+
+https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jcadima&theme=solarized_dark
+
 
