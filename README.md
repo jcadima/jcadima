@@ -40,12 +40,3 @@ Hey there, I’m Juan — a FullStack Developer evolving into a DevOps-focused e
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://jcadima.dev/blog)
 
-
-## Overall Github Metrics 📊
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcadima&theme=solarized_dark
-
-https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcadima&theme=solarized_dark
-
-https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jcadima&theme=solarized_dark
-
-
