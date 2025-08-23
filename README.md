@@ -1,6 +1,6 @@
 ## Who Am I? 🤔
 
-Hey there, I’m Juan — a FullStack Developer evolving into a DevOps-focused engineer, blending deep expertise in backend and API design with skills in Docker, Linux, CI/CD, and cloud infrastructure. Passionate about building secure, scalable systems and orchestrating the full lifecycle from code to production.
+Hey there, I'm Juan — a FullStack Developer diving into the DevOps world. I build backend systems and APIs using modern development practices, while learning containerization, infrastructure automation, and deployment strategies. Always curious about improving the journey from code to production.
 <br>
 
 ## Languages, Tools, and Frameworks ⚙️
@@ -39,15 +39,6 @@ Hey there, I’m Juan — a FullStack Developer evolving into a DevOps-focused e
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [more blog posts...](https://jcadima.dev/blog)
-
-## Evolving into DevOps 🚀
-
-Currently exploring:
-
-- Terraform & Infrastructure as Code
-- Kubernetes & Container Orchestration
-- Advanced CI/CD with GitHub Actions
-- Cloud Platforms: AWS, GCP
 
 ## Online Presence
 
