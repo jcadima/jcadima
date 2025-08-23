@@ -28,8 +28,13 @@ Hey there, I’m Juan — a FullStack Developer evolving into a DevOps-focused e
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcadima&show_icons=true&theme=radical" alt="Juan's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcadima&layout=compact&theme=radical" alt="Top Languages"/>
+<!-- Top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcadima&layout=compact&theme=radical)
+
+<!-- Repo stars -->
+
+![Stargazers](https://github-readme-stats.vercel.app/api?username=jcadima&show_icons=true&theme=radical&count_private=true&hide_rank=true)
+
 </p>
 
 ## Projects 🔗
