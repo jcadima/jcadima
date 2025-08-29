@@ -1,4 +1,4 @@
-## Who Am I? 🤔
+## $ whoami? 🤔
 
 Hey there, I'm Juan — a FullStack Developer diving into the DevOps world. I build backend systems and APIs using modern development practices, while learning containerization, infrastructure automation, and deployment strategies. Always curious about improving the journey from code to production.
 <br>
