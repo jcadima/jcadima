@@ -34,7 +34,8 @@ Hey there, I'm Juan — a FullStack Developer diving into the DevOps world. I bu
 ## Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
-
+- [ICE's Dangerous New Spyware Contract Explained](https://jcadima.dev/blog/government-spying-ice-spyware-paragon)
+- [Understanding Digital Privacy](https://jcadima.dev/blog/digital-privacy-guide-protect-online-anonymity)
 - [Building a dynamic Sitemap generator in Laravel](https://jcadima.dev/blog/how-to-build-a-custom-sitemap-in-laravel-for-better-seo-without-packages)
 - [Boost Laravel Performance with Eloquent Caching and Query Optimization](https://jcadima.dev/blog/boost-laravel-performance-with-eloquent-caching-and-query-optimization)
 <!-- BLOG-POST-LIST:END -->
