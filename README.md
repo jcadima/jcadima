@@ -34,6 +34,7 @@ Hey there, I am a FullStack Developer diving into the DevOps world. I build back
 ## Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Multiple Laravel Apps on One VPS with Docker compose](https://jcadima.dev/blog/multiple-laravel-apps-docker-compose-vps)
 - [ICE's Dangerous New Spyware Contract Explained](https://jcadima.dev/blog/government-spying-ice-spyware-paragon)
 - [Understanding Digital Privacy](https://jcadima.dev/blog/digital-privacy-guide-protect-online-anonymity)
 - [Building a dynamic Sitemap generator in Laravel](https://jcadima.dev/blog/how-to-build-a-custom-sitemap-in-laravel-for-better-seo-without-packages)
