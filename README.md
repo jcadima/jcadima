@@ -1,35 +1,28 @@
 ## $ whoami? 🤔
 
-Hey there, I am a FullStack Developer diving into the DevOps world. I build backend systems and APIs using modern development practices, while learning containerization, infrastructure automation, and deployment strategies. Always curious about improving the journey from code to production.
-<br>
+Full-stack developer building backend systems and APIs with an architectural mindset. Currently expanding into DevOps to better own the full lifecycle, from code and containers to infrastructure and deployment. Curious by default, pragmatic by choice.
 
 ## Languages, Tools, and Frameworks ⚙️
 
 <!-- For more icons please follow  https://github.com/devicons/devicon -->
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgre-sql/postgre-sql-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zsh/zsh-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50"/>
 </p>
 
-## Projects 🔗
-
-- [WireCMS](https://wirecms.jcadima.dev/) - A developer-focused content management system built with Laravel, Livewire 3.
-- [NoSiteRadar](https://nositeradar.jcadima.dev/) - Generate instant lead lists of local businesses that need your web services.
-- [IMGrly](https://imgrly.jcadima.dev/) - Image Tools for Developers and Designers.
 
 ## Latest Blog Posts 📕
 
