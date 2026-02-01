@@ -16,7 +16,7 @@ Full-stack developer building backend systems and APIs with an architectural min
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgre-sql/postgre-sql-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zsh/zsh-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="50" height="50"/>
