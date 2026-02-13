@@ -1,6 +1,6 @@
 ## $ whoami? 🤔
 
-Full-stack developer building backend systems and APIs with an architectural mindset. Currently expanding into DevOps to better own the full lifecycle, from code and containers to infrastructure and deployment. Curious by default, pragmatic by choice.
+Senior Software Engineer | Web Applications, APIs & Secure Systems building backend systems and APIs with an architectural mindset. Currently expanding into DevOps to better own the full lifecycle, from code and containers to infrastructure and deployment. Curious by default, pragmatic by choice.
 
 ## Languages, Tools, and Frameworks ⚙️
 
