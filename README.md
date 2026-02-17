@@ -1,6 +1,8 @@
 ## $ whoami? 🤔
 
-Senior Software Engineer | Web Applications, APIs & Secure Systems building backend systems and APIs with an architectural mindset. Currently expanding into DevOps to better own the full lifecycle, from code and containers to infrastructure and deployment. Curious by default, pragmatic by choice.
+Engineering secure, production-ready backend systems and infrastructure.
+Focused on application security, API architecture, containerized deployments, and production hardening across modern platforms.
+Experienced in building CMS/CRM systems, integrating ecommerce platforms, implementing CI/CD pipelines, and solving complex infrastructure and security challenges in real production environments.
 
 ## Languages, Tools, and Frameworks ⚙️
 
