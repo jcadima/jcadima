@@ -27,16 +27,7 @@ Experienced in building CMS/CRM systems, integrating ecommerce platforms, implem
 
 
 ## Latest Blog Posts 📕
-
-<!-- BLOG-POST-LIST:START -->
-- [Running Multiple Laravel Apps on One VPS with Docker compose](https://jcadima.dev/blog/multiple-laravel-apps-docker-compose-vps)
-- [ICE's Dangerous New Spyware Contract Explained](https://jcadima.dev/blog/government-spying-ice-spyware-paragon)
-- [Understanding Digital Privacy](https://jcadima.dev/blog/digital-privacy-guide-protect-online-anonymity)
-- [Building a dynamic Sitemap generator in Laravel](https://jcadima.dev/blog/how-to-build-a-custom-sitemap-in-laravel-for-better-seo-without-packages)
-- [Boost Laravel Performance with Eloquent Caching and Query Optimization](https://jcadima.dev/blog/boost-laravel-performance-with-eloquent-caching-and-query-optimization)
-<!-- BLOG-POST-LIST:END -->
-
-▶️ [more blog posts...](https://jcadima.dev/blog)
+▶️ [blog posts...](https://jcadima.dev/blog)
 
 ## Online Presence
 
