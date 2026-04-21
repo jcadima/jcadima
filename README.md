@@ -7,7 +7,7 @@ Experienced in building CMS/CRM systems, integrating ecommerce platforms, implem
 ## Languages, Tools, and Frameworks ⚙️
 
 <!-- For more icons please follow  https://github.com/devicons/devicon -->
-<p>
+<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
@@ -23,7 +23,7 @@ Experienced in building CMS/CRM systems, integrating ecommerce platforms, implem
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zsh/zsh-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50"/>
-</p>
+</div>
 
 
 ## Latest Blog Posts 📕
