@@ -7,23 +7,23 @@ Experienced in building CMS/CRM systems, integrating ecommerce platforms, implem
 ## Languages, Tools, and Frameworks ⚙️
 
 <!-- For more icons please follow  https://github.com/devicons/devicon -->
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zsh/zsh-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50"/>
-</div>
+<p>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zsh/zsh-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="50" height="50"/>
+    <img style="display:inline-block;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50"/>
+</p>
 
 
 ## Latest Blog Posts 📕
